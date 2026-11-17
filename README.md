@@ -21,18 +21,6 @@ This project answers those questions with data. We analysed the performance of a
 
 ---
 
-## 👥 Team
-
-| Member |
-|---|
-| Fathima Mufliha Kottaparamban |
-| Aaliya Kaunain Mustafa Baig |
-| Shubhangi Dubey |
-| Shruti Chalke |
-| Azra Lokhandwala |
-
----
-
 ## 📁 Repository Structure
 
 ```
