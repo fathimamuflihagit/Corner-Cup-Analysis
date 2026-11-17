@@ -1,0 +1,13 @@
+Shop_Name,Location_Type,Floor_Size_sqft,Num_Staff,Daily_Customers,Avg_Spend_per_Customer,Monthly_Revenue_000,Customer_Satisfaction_Score
+Downtown Core,Urban,820,6,312,8.4,78.9,4.1
+Westside Plaza,Urban,1100,8,278,9.2,77.0,4.3
+University Ave,Suburban,950,7,195,7.8,45.6,3.9
+Airport Terminal,Urban,680,5,441,6.9,91.4,3.5
+Midtown Mall,Urban,1250,9,302,10.5,95.5,4.4
+Riverside Park,Suburban,880,6,168,8.7,44.0,4.2
+Eastgate Centre,Suburban,760,5,149,7.2,32.3,3.7
+North Hills,Suburban,1050,8,221,9.8,65.1,4.0
+Harbour View,Urban,1400,10,388,11.2,131.0,4.6
+College Street,Urban,720,5,267,7.6,61.0,3.8
+Tech Campus,Suburban,1180,8,310,9.4,87.7,4.3
+Old Town Square,Urban,640,5,198,8.1,48.3,3.6
